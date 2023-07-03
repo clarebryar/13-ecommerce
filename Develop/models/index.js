@@ -25,7 +25,7 @@ Tag.belongsToMany(Product, {
   through: {
     model: ProductTag
   },
-
+  as: 'tag_product'
 });
 
 
