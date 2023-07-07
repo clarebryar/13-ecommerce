@@ -4,6 +4,6 @@ This project organizes a database of information for an e-commerce site. Using s
 ## Usage 
 Linked below is the video walkthrough of the command line running the SQL database, and seeding the database, and testing each CRUD route using Insomnia. 
 
-https://watch.screencastify.com/v/6MWmQgiTL8PCWHvPWB13
+https://watch.screencastify.com/v/iPgkrP4gDf1FtiBaRoyp
 
 
